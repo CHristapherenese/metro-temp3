@@ -1,0 +1,22 @@
+{
+    "name": "Metro temp3",
+    "description": "",
+    "dependencies": {
+        "adafruit-metro-m0-express": "*",
+        "display": "*",
+        "lcd": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
